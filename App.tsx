@@ -42,7 +42,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.header}>Verse for you</Text>
+      <Text style={styles.header}>BIBLE VERSE FINDER</Text>
       <View style={styles.inputContainer}>
         <Text style={styles.label}>Type a verse which you want to see</Text>
         <TextInput
